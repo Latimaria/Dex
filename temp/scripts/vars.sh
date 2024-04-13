@@ -3,15 +3,19 @@
 BASE_PATH=$(pwd)
 cd ..
 PARENT=$(pwd)
+cd ..
+ROOT_PATH=$(pwd)
 cd $BASE_PATH
 echo "BASE_PATH: $BASE_PATH"
 
 BUILD_TOOLS="/Users/qing/Library/Android/sdk/build-tools/34.0.0"
 D8_DIR="$BUILD_TOOLS/d8"
 DEX_DUMP="$BUILD_TOOLS/dexdump"
+echo "BUILD_TOOLS: $BUILD_TOOLS"
 
-DEXTOOLS_DIR="/Users/qing/Courses/Android/ASM/dex-tools-v2.4"
+DEXTOOLS_DIR="$ROOT_PATH/dex-tools-v2.4"
 DEX2JAR="$DEXTOOLS_DIR/d2j-dex2jar.sh"
+echo "DEXTOOLS_DIR: $DEXTOOLS_DIR"
 
 #######
 # app specific 

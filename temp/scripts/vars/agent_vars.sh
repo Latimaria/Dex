@@ -23,9 +23,9 @@ AGENT_NAME="libagent.so"
 ############################
 
 # generated
-AGENT_DIR=$INSTRUMENT_DIR"/agent/"
+AGENT_DIR=$ROOT_PATH"/agent/"
 AGENT_PATH=$AGENT_DIR/$AGENT_NAME
-LOG_DIR=$INSTRUMENT_DIR"/logs/"
+# LOG_DIR=$INSTRUMENT_DIR"/logs/"
 
 ARTTI_AGENT_DIR="/Users/qing/Courses/Android/ARTTI_instrument/agent"
 ARTTI_PATH=$ARTTI_AGENT_DIR/$AGENT_NAME
