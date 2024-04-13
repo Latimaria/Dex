@@ -1,0 +1,184 @@
+Add Z = “”
+--------- beginning of main
+2024-04-08 12:13:19.938  5835-5835  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 17.483833 ms
+2024-04-08 12:13:19.980  5835-5835  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 36.417125 ms
+---------------------------- PROCESS STARTED (5894) for package com.example.timing ----------------------------
+---------------------------- PROCESS ENDED (5894) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (5954) for package com.example.timing ----------------------------
+2024-04-08 12:14:20.734  5954-5954  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 17.709833 ms
+2024-04-08 12:14:20.778  5954-5954  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 35.062792 ms
+---------------------------- PROCESS ENDED (5954) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (6004) for package com.example.timing ----------------------------
+2024-04-08 12:14:22.928  6004-6004  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 17.593875 ms
+2024-04-08 12:14:22.970  6004-6004  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 35.612292 ms
+---------------------------- PROCESS ENDED (6004) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (6055) for package com.example.timing ----------------------------
+2024-04-08 12:14:25.177  6055-6055  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 17.001334 ms
+2024-04-08 12:14:25.218  6055-6055  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 35.74625 ms
+---------------------------- PROCESS ENDED (6055) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (6102) for package com.example.timing ----------------------------
+2024-04-08 12:14:27.435  6102-6102  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 21.071417 ms
+2024-04-08 12:14:27.481  6102-6102  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 36.04725 ms
+---------------------------- PROCESS ENDED (6102) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (6156) for package com.example.timing ----------------------------
+2024-04-08 12:14:29.628  6156-6156  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 17.736333 ms
+2024-04-08 12:14:29.668  6156-6156  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 33.851667 ms
+---------------------------- PROCESS ENDED (6156) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (6206) for package com.example.timing ----------------------------
+2024-04-08 12:14:31.760  6206-6206  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 17.868541 ms
+2024-04-08 12:14:31.801  6206-6206  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 34.353708 ms
+---------------------------- PROCESS ENDED (6206) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (6258) for package com.example.timing ----------------------------
+2024-04-08 12:14:33.955  6258-6258  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 17.845667 ms
+2024-04-08 12:14:33.998  6258-6258  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 34.962583 ms
+
+
+---------------------------- PROCESS ENDED (6258) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (6309) for package com.example.timing ----------------------------
+2024-04-08 12:14:36.181  6309-6309  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 18.753584 ms
+2024-04-08 12:14:36.221  6309-6309  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 34.70875 ms
+---------------------------- PROCESS ENDED (6309) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (6355) for package com.example.timing ----------------------------
+2024-04-08 12:14:38.398  6355-6355  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 17.860125 ms
+2024-04-08 12:14:38.442  6355-6355  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 37.219334 ms
+---------------------------- PROCESS ENDED (6355) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (6412) for package com.example.timing ----------------------------
+2024-04-08 12:14:40.614  6412-6412  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 17.837833 ms
+2024-04-08 12:14:40.654  6412-6412  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 34.552292 ms
+---------------------------- PROCESS ENDED (6412) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (6462) for package com.example.timing ----------------------------
+---------------------------- PROCESS ENDED (6462) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (6513) for package com.example.timing ----------------------------
+---------------------------- PROCESS ENDED (6513) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (6563) for package com.example.timing ----------------------------
+2024-04-08 12:14:47.471  6563-6563  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 17.833208 ms
+2024-04-08 12:14:47.515  6563-6563  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 34.444458 ms
+---------------------------- PROCESS ENDED (6563) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (6613) for package com.example.timing ----------------------------
+---------------------------- PROCESS ENDED (6613) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (6664) for package com.example.timing ----------------------------
+2024-04-08 12:14:51.832  6664-6664  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 17.682708 ms
+2024-04-08 12:14:51.874  6664-6664  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 34.891542 ms
+---------------------------- PROCESS ENDED (6664) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (6720) for package com.example.timing ----------------------------
+2024-04-08 12:14:54.018  6720-6720  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 18.121042 ms
+2024-04-08 12:14:54.062  6720-6720  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 35.961375 ms
+---------------------------- PROCESS ENDED (6720) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (6766) for package com.example.timing ----------------------------
+---------------------------- PROCESS ENDED (6766) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (6820) for package com.example.timing ----------------------------
+---------------------------- PROCESS ENDED (6820) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (6873) for package com.example.timing ----------------------------
+2024-04-08 12:15:00.624  6873-6873  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 17.424833 ms
+2024-04-08 12:15:00.665  6873-6873  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 33.877708 ms
+---------------------------- PROCESS ENDED (6873) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (6925) for package com.example.timing ----------------------------
+2024-04-08 12:15:02.861  6925-6925  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 18.4305 ms
+2024-04-08 12:15:02.902  6925-6925  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 35.104292 ms
+---------------------------- PROCESS ENDED (6925) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (6977) for package com.example.timing ----------------------------
+---------------------------- PROCESS ENDED (6977) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (7030) for package com.example.timing ----------------------------
+2024-04-08 12:15:07.270  7030-7030  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 18.276625 ms
+2024-04-08 12:15:07.313  7030-7030  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 35.348084 ms
+---------------------------- PROCESS ENDED (7030) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (7080) for package com.example.timing ----------------------------
+2024-04-08 12:15:09.680  7080-7080  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 18.119416 ms
+2024-04-08 12:15:09.721  7080-7080  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 35.002292 ms
+---------------------------- PROCESS ENDED (7080) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (7130) for package com.example.timing ----------------------------
+2024-04-08 12:15:11.916  7130-7130  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 17.673458 ms
+2024-04-08 12:15:11.958  7130-7130  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 35.2345 ms
+---------------------------- PROCESS ENDED (7130) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (7181) for package com.example.timing ----------------------------
+2024-04-08 12:15:14.085  7181-7181  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 17.410917 ms
+2024-04-08 12:15:14.127  7181-7181  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 34.955417 ms
+---------------------------- PROCESS ENDED (7181) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (7231) for package com.example.timing ----------------------------
+2024-04-08 12:15:16.281  7231-7231  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 17.142375 ms
+2024-04-08 12:15:16.322  7231-7231  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 34.312625 ms
+---------------------------- PROCESS ENDED (7231) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (7281) for package com.example.timing ----------------------------
+2024-04-08 12:15:18.546  7281-7281  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 17.669 ms
+2024-04-08 12:15:18.588  7281-7281  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 35.984209 ms
+---------------------------- PROCESS ENDED (7281) for package com.example.timing ----------------------------
+
+---------------------------- PROCESS STARTED (7333) for package com.example.timing ----------------------------
+2024-04-08 12:15:20.728  7333-7333  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 19.511209 ms
+2024-04-08 12:15:20.776  7333-7333  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 38.7 ms
+---------------------------- PROCESS ENDED (7333) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (7383) for package com.example.timing ----------------------------
+2024-04-08 12:15:22.885  7383-7383  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 17.252625 ms
+2024-04-08 12:15:22.929  7383-7383  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 34.688126 ms
+---------------------------- PROCESS ENDED (7383) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (7434) for package com.example.timing ----------------------------
+2024-04-08 12:15:25.212  7434-7434  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 18.019375 ms
+2024-04-08 12:15:25.253  7434-7434  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 34.321708 ms
+---------------------------- PROCESS ENDED (7434) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (7485) for package com.example.timing ----------------------------
+2024-04-08 12:15:27.579  7485-7485  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 18.981 ms
+2024-04-08 12:15:27.623  7485-7485  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 35.946417 ms
+---------------------------- PROCESS ENDED (7485) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (7532) for package com.example.timing ----------------------------
+2024-04-08 12:15:29.791  7532-7532  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 18.470959 ms
+2024-04-08 12:15:29.833  7532-7532  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 35.919166 ms
+---------------------------- PROCESS ENDED (7532) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (7586) for package com.example.timing ----------------------------
+---------------------------- PROCESS ENDED (7586) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (7636) for package com.example.timing ----------------------------
+---------------------------- PROCESS ENDED (7636) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (7686) for package com.example.timing ----------------------------
+2024-04-08 12:15:36.736  7686-7686  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 17.994083 ms
+2024-04-08 12:15:36.777  7686-7686  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 34.669083 ms
+---------------------------- PROCESS ENDED (7686) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (7737) for package com.example.timing ----------------------------
+2024-04-08 12:15:39.065  7737-7737  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 18.108542 ms
+2024-04-08 12:15:39.109  7737-7737  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 37.074 ms
+---------------------------- PROCESS ENDED (7737) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (7787) for package com.example.timing ----------------------------
+2024-04-08 12:15:41.348  7787-7787  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 18.406833 ms
+2024-04-08 12:15:41.391  7787-7787  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 35.88875 ms
+---------------------------- PROCESS ENDED (7787) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (7838) for package com.example.timing ----------------------------
+2024-04-08 12:15:43.771  7838-7838  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 17.699708 ms
+2024-04-08 12:15:43.814  7838-7838  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 34.923333 ms
+---------------------------- PROCESS ENDED (7838) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (7889) for package com.example.timing ----------------------------
+2024-04-08 12:15:46.113  7889-7889  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 18.961042 ms
+2024-04-08 12:15:46.155  7889-7889  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 34.804417 ms
+---------------------------- PROCESS ENDED (7889) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (7941) for package com.example.timing ----------------------------
+2024-04-08 12:15:48.562  7941-7941  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 19.482458 ms
+2024-04-08 12:15:48.602  7941-7941  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 34.563916 ms
+---------------------------- PROCESS ENDED (7941) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (7991) for package com.example.timing ----------------------------
+2024-04-08 12:15:50.922  7991-7991  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 18.02525 ms
+2024-04-08 12:15:50.968  7991-7991  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 37.67725 ms
+
+
+2024-04-08 12:15:57.699  8140-8140  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 17.125083 ms
+2024-04-08 12:15:57.740  8140-8140  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 34.707625 ms
+---------------------------- PROCESS ENDED (8140) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (8195) for package com.example.timing ----------------------------
+2024-04-08 12:16:00.280  8195-8195  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 17.453125 ms
+2024-04-08 12:16:00.320  8195-8195  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 34.095875 ms
+---------------------------- PROCESS ENDED (8195) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (8246) for package com.example.timing ----------------------------
+2024-04-08 12:16:02.501  8246-8246  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 18.156667 ms
+2024-04-08 12:16:02.545  8246-8246  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 35.483 ms
+---------------------------- PROCESS ENDED (8246) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (8297) for package com.example.timing ----------------------------
+2024-04-08 12:16:04.830  8297-8297  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 17.751583 ms
+2024-04-08 12:16:04.872  8297-8297  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 35.214583 ms
+---------------------------- PROCESS ENDED (8297) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (8348) for package com.example.timing ----------------------------
+2024-04-08 12:16:07.067  8348-8348  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 17.837 ms
+2024-04-08 12:16:07.108  8348-8348  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 34.176875 ms
+---------------------------- PROCESS ENDED (8348) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (8399) for package com.example.timing ----------------------------
+2024-04-08 12:16:09.347  8399-8399  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 18.192792 ms
+2024-04-08 12:16:09.387  8399-8399  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 35.399458 ms
+---------------------------- PROCESS ENDED (8399) for package com.example.timing ----------------------------
+---------------------------- PROCESS STARTED (8450) for package com.example.timing ----------------------------
+2024-04-08 12:16:11.660  8450-8450  BM                      com.example.timing                   I  [BM] [BEFORE] Duration: 18.056708 ms
+2024-04-08 12:16:11.704  8450-8450  BM                      com.example.timing                   I  [BM] [AFTER] Duration: 37.163666 ms
